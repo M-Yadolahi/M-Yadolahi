@@ -18,6 +18,10 @@ Iam a junior software engineer who is pationed about his carrer and path, I am a
 ---
 [![](https://visitcount.itsvg.in/api?id=M-Yadolahi&icon=0&color=2)](https://visitcount.itsvg.in)
 
+## My LeetCode 
+
+![LeetCode Stats](https://leetcode.card.workers.dev/yadollahi?theme=nord&font=milonga&extension=null)
+
 ## Curently working with Turing Research Team.
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 
