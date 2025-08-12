@@ -9,7 +9,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/0ssinsight-widget.md
 -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?M-Yadolahi=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Yadolahi&theme=react-dark&hide_border=true&area=true)
 
 
 ## 🌐 Socials:
