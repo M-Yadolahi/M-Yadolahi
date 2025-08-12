@@ -8,6 +8,10 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/10kartik.md
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/0ssinsight-widget.md
 -->
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/in/mohammad_reza_yadollahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkdin.com/in/mohammad-reza-yadollahi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/M_R_yadollahi) 
 
