@@ -13,7 +13,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/in/mohammad_reza_yadollahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkdin.com/in/mohammad-reza-yadollahi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/M_R_yadollahi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkdin.com/in/mohammad-reza-yadollahi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/M_R_yadollahi) 
 
 
 
@@ -76,7 +76,5 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/yadollahi?theme=nord&font=milonga&extension=null)
 
-## Curently working with Turing Research Team.
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
