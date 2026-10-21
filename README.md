@@ -46,8 +46,6 @@ I'm always eager to learn new skills, stay updated with the latest technologies,
   </a>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Yadolahi&theme=react-dark&hide_border=true&area=true)
-
 ---
 
 ## 🌐 Socials
@@ -60,6 +58,6 @@ I'm always eager to learn new skills, stay updated with the latest technologies,
 
 ## 🧩 My LeetCode
 
-![LeetCode Stats]((https://leetcode.com/u/yadollahi/))
+![LeetCode Stats]((https://leetcode.com/yadollahi/))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
