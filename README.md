@@ -5,13 +5,13 @@ I am a **Front-End Developer** based in **Shiraz, Iran**. I build responsive web
 
 I'm always eager to learn new skills, stay updated with the latest technologies, and take part in projects that challenge me to grow.
 
-🌐 **Portfolio:** [yadolahi.com](https://yadolahi.com/en/) · 📄 [Download résumé](https://yadolahi.com/en/)
+🌐 **Portfolio:** [yadolahi.com](https://yadolahi.com/en/) · 📄 [Download résumé](https://yadolahi.com/en/about/)
 
 ---
 
 ## 🗂️ Selected Work
 
-- **[Dr. Pourdavood Clinic](https://yadolahi.com/en/)**: a production website for a plastic surgery and aesthetic clinic, with English, Persian, and Arabic versions. Managed deployment, hosting configuration, and basic SEO setup.
+- **[Dr. Pourdavood Clinic](https://yadolahi.com/en/projects/p1/)**: a production website for a plastic surgery and aesthetic clinic, with English, Persian, and Arabic versions. Managed deployment, hosting configuration, and basic SEO setup.
 - **Clinica**: a medical directory platform concept for discovering doctors, clinics, and aesthetic services. Built responsive interfaces and deployed on Vercel.
 
 ---
@@ -60,6 +60,6 @@ I'm always eager to learn new skills, stay updated with the latest technologies,
 
 ## 🧩 My LeetCode
 
-![LeetCode Stats](https://leetcode.card.workers.dev/yadollahi?theme=nord&font=milonga&extension=null)
+![LeetCode Stats]((https://leetcode.com/u/yadollahi/))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
