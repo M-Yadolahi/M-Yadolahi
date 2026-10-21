@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Reza Yadolahi
+# 👋 Hi, I'm Mohammad Reza Yadollahi
 
 ## 💫 About Me
 I am a **Front-End Developer** based in **Shiraz, Iran**. I build responsive websites and web applications with **Next.js, TypeScript, and Tailwind CSS**, from multilingual clinic websites to interactive 3D experiences.
