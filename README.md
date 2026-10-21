@@ -55,9 +55,3 @@ I'm always eager to learn new skills, stay updated with the latest technologies,
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M_R_yadollahi)
 
 ---
-
-## 🧩 My LeetCode
-
-![LeetCode Stats]((https://leetcode.com/yadollahi/))
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
